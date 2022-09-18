@@ -1,0 +1,11 @@
+.footer__column-links ul{
+  margin: 0;
+  padding: 0;
+}
+.footer__column-links {
+  padding: 0;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+  padding-bottom: 16px;
+}
