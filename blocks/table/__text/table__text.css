@@ -1,6 +1,8 @@
-.table__text p{
+.table__text p {
   margin: 0;
-  padding: 0;}
+  padding: 0;
+}
+
 .table__text {
   margin: 0;
   padding: 0;
@@ -10,10 +12,10 @@
   margin-top:20px;
 }
 
+#table__text {
+  margin-top: 20px;
+}
 
-#table__text{
-
-
-
- margin-top: 20px;
+#table__text-two {
+  margin-top: 20px;
 }
