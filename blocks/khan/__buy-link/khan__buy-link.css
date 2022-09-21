@@ -5,15 +5,12 @@
 	position: relative;
   margin-left: 48px;
   z-index: 1;
-}
-
-.khan__buy-link a {
   color: #2f80ed;
   text-decoration: none;
   opacity: 1;
-  transition-property: opacity 1s linear 0.5s;
+  transition: opacity .5s linear .1s;
 }
 
 .khan__buy-link:hover {
-  opacity: 0.7;
+  opacity: 0.6;
 }

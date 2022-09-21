@@ -11,6 +11,5 @@
   height: 877px;
   padding: 0;
   margin-top: 0;
-  z-index: 0;
-  animation: rotation 20s linear infinite;
+  z-index: -1;
 }

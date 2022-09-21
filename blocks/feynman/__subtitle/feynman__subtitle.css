@@ -1,9 +1,6 @@
-.feynman__subtitle p {
+.feynman__subtitle {
   margin: 0;
   padding: 0;
-}
-
-.feynman__subtitle {
   position: relative;
   text-align: center;
   margin: 0;
