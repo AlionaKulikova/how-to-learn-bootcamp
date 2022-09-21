@@ -5,19 +5,9 @@
 	height: 316px;
 	overflow: visible;
 	z-index: 1;
-	border: none;
+	border: 0px;
 }
 
 .video__iframe:first-of-type {
 	margin-right: 20px;
-}
-
-#ytplayer { 
-	width: 515px;
-	height: 316px; 
-}
-
-#ytplayer-two {
-	width: 515px;
-	height: 316px;
 }

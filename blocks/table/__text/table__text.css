@@ -4,5 +4,9 @@
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-  margin-top:20px;
+  margin-top: 20px;
+}
+
+.table__text:nth-child(2n) {
+  margin-bottom: 0;
 }
