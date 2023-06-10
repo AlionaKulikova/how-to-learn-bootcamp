@@ -1,5 +1,5 @@
 # __Научиться учиться__   
-<div align="center">
+<div align="left">
   Cсылка на страницу:
  https://alionakulikova.github.io/how-to-learn/ 
   
