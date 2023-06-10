@@ -1,4 +1,9 @@
 # __Научиться учиться__  
+### Cсылка на страницу
+<div align="center">
+<img src="https://seonomad.net/sites/default/files/wiki/link-searching.jpg" align="center" style="width: 2%" /> https://alionakulikova.github.io/how-to-learn/ 
+  
+</div>  
 ## На моей веб-странице можно ознакомиться с методами обучения. Посмотреть видео. 
 
 ###  Используемые технологии 
@@ -7,8 +12,4 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>    
 </div>
 
-### Cсылка на страницу
-<div align="center">
-<img src="https://seonomad.net/sites/default/files/wiki/link-searching.jpg" align="center" style="width: 2%" /> https://alionakulikova.github.io/how-to-learn/" > 
-  
-</div>  
+
