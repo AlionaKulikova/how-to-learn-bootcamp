@@ -9,6 +9,6 @@
 
 ### Cсылка на страницу
 <div align="center">
-<img src="https://seonomad.net/sites/default/files/wiki/link-searching.jpg" align="center" style="width: 100%" /> <a href=" https://alionakulikova.github.io/how-to-learn/" ></a>  
+<img src="https://seonomad.net/sites/default/files/wiki/link-searching.jpg" align="center" style="width: 2%" /> https://alionakulikova.github.io/how-to-learn/" > 
   
 </div>  
