@@ -1,7 +1,7 @@
-# __Научиться учиться__  
-### Cсылка на страницу
+# __Научиться учиться__   
 <div align="center">
-<img src="https://seonomad.net/sites/default/files/wiki/link-searching.jpg" align="center" style="width: 2%" /> https://alionakulikova.github.io/how-to-learn/ 
+  Cсылка на страницу:
+ https://alionakulikova.github.io/how-to-learn/ 
   
 </div>  
 ## На моей веб-странице можно ознакомиться с методами обучения. Посмотреть видео. 
