@@ -12,8 +12,6 @@
   <a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /></a>  
 </div>
 
-### Функциональность:
-    
     ✔️  организация файлов по методологии БЭМ 
     ✔️ продвинутая семантика языка HTML
     ✔️  flexbox-вёрстка
