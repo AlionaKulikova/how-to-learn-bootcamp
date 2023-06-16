@@ -1,7 +1,7 @@
 # __Научиться учиться__   
 <div align="left">
- <h3>Ссылка на страницу:</h3> 
- https://alionakulikova.github.io/how-to-learn-bootcamp/ 
+ <h3>Ссылка на страницу:  https://alionakulikova.github.io/how-to-learn-bootcamp/ </h3> 
+
 </div>  
 
 
