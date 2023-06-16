@@ -12,12 +12,14 @@
   <a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /></a>  
 </div>
 
+
     ✔️  организация файлов по методологии БЭМ 
-    ✔️ продвинутая семантика языка HTML
+    ✔️  продвинутая семантика языка HTML
     ✔️  flexbox-вёрстка
     ✔️  позиционирование 
     ✔️  анимация и трансформация
     ✔️  работа с брифом 
+
 
 <p> На моей веб-странице можно ознакомиться с методами обучения. Посмотреть видео.</p>
 <div align="center">
